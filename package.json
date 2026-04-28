@@ -1,7 +1,8 @@
 {
-  "name": "edge-stream-handler",
-  "version": "2.1.0",
-  "description": "Serverless edge stream processing module",
+  "name": "wp-sms-gateway",
+  "version": "1.0.0",
+  "description": "Edge gateway proxy for the WP-SMS WordPress plugin — forwards outbound SMS API calls to your upstream provider",
   "private": true,
-  "license": "MIT"
+  "license": "GPL-2.0-or-later",
+  "keywords": ["wordpress", "wp-sms", "sms", "sms-gateway", "twilio", "plivo", "kavenegar"]
 }
