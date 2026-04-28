@@ -1,0 +1,7 @@
+{
+  "name": "edge-stream-handler",
+  "version": "2.1.0",
+  "description": "Serverless edge stream processing module",
+  "private": true,
+  "license": "MIT"
+}
