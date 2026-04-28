@@ -1,5 +1,8 @@
 {
+  "version": 2,
+  "name": "wp-sms-gateway",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api" }
-  ]
+    { "source": "/(.*)", "destination": "/api/sms-gateway" }
+  ],
+  "trailingSlash": false
 }
